@@ -1,0 +1,121 @@
+/*
+.foto{
+    width: 10%;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    margin-top: auto;
+}
+*/
+
+body{
+
+    background-color: rgb(254, 255, 255);
+    font-family:'Montserrat';
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    margin: 50px;
+    padding: 20px;
+
+}
+
+
+header {
+    background-color: #daeeff;
+    color: #000000;
+    padding: 5px;
+    text-align: center;
+    font-size: 24px;
+    font-weight:lighter;
+  }
+
+  .container {
+    width: 100%;
+    overflow: hidden; 
+  }
+  
+  img {
+    width:25%;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    margin-top: 25px;
+    float: center;
+    margin-right: 40%;
+  }
+
+  section {
+    padding: 20px;
+    margin-bottom: 30px;
+   
+  }
+
+  section h3 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+
+  a {
+    color:5957DB;
+    text-decoration:none;
+  }
+  
+  a:hover {
+    text-decoration:underline;
+  }
+
+  .columnas {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .columna-izquierda {
+    float: left;
+    width: 35%; 
+    margin-top: 30px; 
+    margin-bottom: 50px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 80%%; 
+  }
+  
+  .columna-derecha {
+    float: right;
+    width: 65%; 
+    margin-top: 50px; 
+    margin-bottom: 40px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 800px; 
+  }
+
+  .colum {
+    width: 100%;
+    overflow: hidden; 
+  }
+  
+  .colum-izquierda {
+    float: left;
+    width: 50%; 
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+    margin-left: auto; 
+    margin-right: auto; 
+  
+  }
+  
+  .colum-derecha {
+    float: right;
+    width: 50%; 
+    margin-top: 50px; 
+    margin-bottom: 50px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 800px; 
+  }
+
+ /* .fa-twitter {
+    color: #1DA1F2; /* color del icono */
+    /*font-size: 24px; /* tamaño del icono */
